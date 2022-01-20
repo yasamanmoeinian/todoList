@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "iran-sanse";
+    src: url("../fonts/IRANSansWeb.eot");
+    src: url("../fonts/IRANSansWeb.ttf");
+    src: url("../fonts/IRANSansWeb.woff");
+}
+
+*{
+    font-family: iran-sanse,sans-serif;
+}
+
